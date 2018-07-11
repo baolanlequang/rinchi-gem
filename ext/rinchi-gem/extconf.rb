@@ -1,6 +1,6 @@
 require 'mkmf'
 
-system("git clone git@git.scc.kit.edu:ComPlat/rinchi.git") or abort
+system("git clone https://git.scc.kit.edu/ComPlat/rinchi.git") or abort
 
 inc_dirs = '-I. -I./rinchi/rinchi/lib -I./rinchi/rinchi/parsers -I./rinchi/rinchi/rinchi -I./rinchi/rinchi/writers -I./rinchi/INCHI-1-API/INCHI_API/inchi_dll'
 
