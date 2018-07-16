@@ -1,4 +1,4 @@
 module RinchiGem
-  VERSION = '1.0.0'
-  GEMVERSION = VERSION + '.1.1'
+  VERSION = '1.0.1'
+  GEMVERSION = VERSION
 end
