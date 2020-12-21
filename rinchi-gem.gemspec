@@ -11,7 +11,7 @@ Gem::Specification.new do |s|
   s.email = ["jasonych99@gmail.com"]
   s.homepage = %q{http://github.com/complat/rinchi-gem}
   s.require_paths = ["lib"]
-  s.rubygems_version = %q{1.6.2}
+  s.rubygems_version = "2.7.10".freeze
   s.summary = %q{RinchiGem!}
   s.license = "GPL-3.0"
   s.test_files = ["test/test_rinchi_gem.rb"]
